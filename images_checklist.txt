@@ -1,0 +1,14 @@
+Images folder structure: /images
+
+Please place the following files (rename your photos to match these file names or update the HTML src paths):
+
+1) hero-children.jpg      → The photo with three kids and boxes (hero banner)
+2) team.jpg               → The group photo of four staff in blue uniforms in front of the truck
+3) car-carrier.jpg        → The car being loaded into the yellow container carrier
+4) call-banner.jpg        → Green poster with truck & text "CALL US 9338888550"
+5) status-poster.jpg      → Illustration of delivery person running (WhatsApp Status poster)
+6) red-reliable.jpg       → Red poster "Reliable & efficient service 933-8888-550"
+7) logo-arrows.png        → Abstract arrows mark (green/red/yellow) used as logo
+8) site-screenshot.jpg    → Screenshot-style blue header page (used under Services)
+
+You can change any filename—just keep the folder as /images and update the <img src="images/.."> paths in index.html.
